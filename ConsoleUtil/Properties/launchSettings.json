@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp2": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files (x86)\\WinSCP\" all C:/Git/Results.txt"
+    }
+  }
+}
